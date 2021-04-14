@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkoutTimer</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="reset">reset</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="enter_your_workout_type">Enter your workout type:</string>
+    <string name="you_spent_00_00_on_push_ups_last_time">You spent 00:00 on push ups last time</string>
+    <string name="enter_value">Enter value</string>
+</resources>
